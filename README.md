@@ -4,7 +4,7 @@ Utilize o yarn ou o npm install para instalar as dependências do projeto. Em se
 DÊ>> expo start
 
 
-Lembre-se de criar o seu App no servidor do Discord para obter as credencias de autenticação. Em seguida, defina no arquivo .env as configurações do seu App (remova o example do arquivo .env.example).
+Lembre-se de criar o seu App no servidor do Discord para obter as credencias de autenticação.
 
 
 REDIRECT_URI=
